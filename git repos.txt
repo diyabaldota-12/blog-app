@@ -1,80 +1,11 @@
-📘 CC CLOUD PROJECTS – MASTER RUN SHEET
-🟢 1. Online Event Registration System
-git clone https://github.com/bradtraversy/event-planner-api.git
-cd event-planner-api
+https://github.com/sanketnaikwade/blog-mern
 
-# Install dependencies
-npm install
+https://github.com/sanketnaikwade/task-manager
 
-# Run backend
-npm start
+https://github.com/sanketnaikwade/todo-mern
 
-✔ Backend API only (no frontend)
+https://github.com/sanketnaikwade/student-management
 
-🟢 2. Online Blog System
-git clone https://github.com/gothinkster/node-express-realworld-example-app.git
-cd node-express-realworld-example-app
+https://github.com/sanketnaikwade/ecom-mern
 
-# Install dependencies
-npm install
-
-# Run backend
-npm start
-
-✔ Backend only (REST API blog system)
-
-🟢 3. MERN Task Management Application
-git clone https://github.com/bradtraversy/mern-todo.git
-cd mern-todo
-Backend (Terminal 1)
-cd api
-npm install
-npm start
-Frontend (Terminal 2)
-cd client
-npm install
-npm start
-
-✔ Full MERN stack (frontend + backend)
-
-🟢 4. E-Commerce Application
-git clone https://github.com/burakorkmez/mern-ecommerce.git
-cd mern-ecommerce
-Backend (Terminal 1)
-cd backend
-npm install
-npm start
-Frontend (Terminal 2)
-cd frontend
-npm install
-npm start
-
-✔ Full MERN stack e-commerce app
-
-🟢 5. Cloud-Based To-Do List Manager
-git clone https://github.com/safak/mern-stack-todo-app.git
-cd mern-stack-todo-app
-Backend (Terminal 1)
-cd server
-npm install
-npm start
-Frontend (Terminal 2)
-cd client
-npm install
-npm start
-
-✔ Full-stack task manager
-
-🟢 6. Cloud-Based Student Record System
-git clone https://github.com/berthutapea/mern-student-management-system.git
-cd mern-student-management-system
-Backend (Terminal 1)
-cd backend
-npm install
-npm start
-Frontend (Terminal 2)
-cd frontend
-npm install
-npm start
-
-✔ Student CRUD system (full stack)
+https://github.com/sanketnaikwade/event-mern
