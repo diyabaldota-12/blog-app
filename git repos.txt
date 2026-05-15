@@ -1,0 +1,41 @@
+Online Event Registration System
+ 
+git clone https://github.com/bradtraversy/event-planner-api.git
+Go folder:
+cd event-planner-api
+
+
+ONLINE BLOG
+
+git clone https://github.com/heroku/node-js-sample.git
+Go inside folder:
+cd node-js-sample
+
+
+MERN-Based Task Management Application
+git clone -b mern-todo-app https://github.com/safak/youtube.git
+Go project:
+cd youtube
+
+
+E COMMERCE APP
+
+git clone https://github.com/burakorkmez/mern-ecommerce.git
+Then:
+cd mern-ecommerce
+
+
+Cloud-Based To-Do List Manager
+
+
+git clone https://github.com/iamshaunjp/MERN-Stack-Tutorial.git
+Go project:
+cd MERN-Stack-Tutorial
+
+
+Cloud-Based Student Record System
+
+git clone https://github.com/berthutapea/mern-student-management-system.git
+
+📂 STEP 2 — Open folder
+cd mern-student-management-system
